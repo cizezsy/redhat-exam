@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="redhat-exam:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="redhat-exam-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="redhat-exam:war exploded" />
+    </root>
+  </artifact>
+</component>
